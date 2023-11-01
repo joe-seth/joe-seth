@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @joe-seth
-- 👀 I’m passionate about Data Science, Machine Learning, Deep Learning, Cyber Security and Software Engineering...
-- 💪 My greatest strengths are Data science; perfroming data analysis, visualizations and using machine learining and deep learning algorithms for modelling.
-- 💻 I also perform ethical hacking, penetration testing and cyber security trainings for corporates and organizations 
-- 🌱 I’m currently learning React...
-- 💞️ I’m looking to collaborate on an ERP project...
-- 📫 How to reach me joesiphusyusuf@gmail.com...
-
-<!---
-joe-seth/joe-seth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![bannar](https://github.com/joe-seth/Joes-Travel-Landing-Page/blob/master/images/banner%20.png?raw=true)
+<h1 align="center">Material Bread</h1>
