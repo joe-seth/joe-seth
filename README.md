@@ -35,4 +35,4 @@ I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" **alt="TensorFlow" width="40" height="40"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-seth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
