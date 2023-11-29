@@ -15,7 +15,7 @@ I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.c
   
 - :zap: In my free time, I perform ethical hacking and penetration testing for diverse organizations.
 
-- :mailbox:How to reach me: mrjoemaina01@gmail.com
+- :mailbox: How to reach me: mrjoemaina01@gmail.com
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
