@@ -16,7 +16,7 @@ I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.c
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I perform ethical hacking and penetration testing for diverse organizations.
 
 - :mailbox:How to reach me: mrjoemaina01@gmail.com
 ### :hammer_and_wrench: Languages and Tools :
@@ -35,3 +35,4 @@ I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" **alt="TensorFlow" width="40" height="40"/>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-seth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
