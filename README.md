@@ -9,10 +9,10 @@
 
 ### :woman_technologist: About Me :
 I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
+- :telescope:  I'm all about tech. I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  
+- :muscle: My greatest strength is in Data Analytics, Data Science, Machine Learning and Deep Learning.
+  
 - :zap: In my free time, I perform ethical hacking and penetration testing for diverse organizations.
 
 - :mailbox:How to reach me: mrjoemaina01@gmail.com
