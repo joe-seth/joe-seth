@@ -12,8 +12,8 @@ I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.c
 - :telescope:  I'm all about tech. I’m currently Learning REACT
   
 - :muscle: My greatest strength is in Data Analytics, Data Science, Machine Learning and Deep Learning.
-  
-- :mailbox: How to reach me: mrjoemaina01@gmail.com
+
+- :email: How to reach me: mrjoemaina01@gmail.com
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
