@@ -8,10 +8,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya
 - :telescope:  I'm all about tech. I’m currently Learning REACT
   
-- :muscle: My greatest strength is in Data Analytics, Data Science, Machine Learning and Deep Learning.
+- :muscle: My greatest strength is in Data Analytics, Data Science, Machine Learning and Deep Learning
 
 - :email:How to reach me: mrjoemaina01@gmail.com
 ### :hammer_and_wrench: Languages and Tools :
