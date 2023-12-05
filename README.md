@@ -5,7 +5,6 @@
 </h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
 
 ### :man_technologist: About Me :
 I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya
@@ -13,7 +12,8 @@ I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.c
   
 - :muscle: My greatest strength is in Data Analytics, Data Science, Machine Learning and Deep Learning
 
-- :email:How to reach me: mrjoemaina01@gmail.com
+- :email: How to reach me: mrjoemaina01@gmail.com
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
