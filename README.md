@@ -34,4 +34,3 @@ Keep learning.
 Keep building.
 
 Combine AI with cybersecurity to create smarter and more secure solutions for the future.
-# joe-seth
