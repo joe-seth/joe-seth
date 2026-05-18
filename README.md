@@ -25,6 +25,12 @@ I believe technology is at its best when it solves meaningful problems, improves
 - Data Analysis
 - Automation
 
+## Writing
+
+Read my Medium articles:
+
+- [Medium](https://medium.com/@mrjoemaina01)
+
 ## Goal
 
 My goal is simple.
